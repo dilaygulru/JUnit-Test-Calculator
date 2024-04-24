@@ -1,7 +1,7 @@
 //STUDENT NUMBER = B231202371
 //STUDENT NAME = DİLAY GÜLRU ÖZAK
 //COURSE NAME = SOFTWARE VERIFICATION AND VALIDATION
-//https://github.com/dilaygulru/SoftwareVerificationValidationHomework.git
+//https://github.com/dilaygulru/dilaygulru-SoftwareVerificationValidationHomework
 
 package org.example;
 
